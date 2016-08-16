@@ -1,0 +1,14 @@
+[http]
+        proxy = http://10.159.32.155:8080
+[diff]
+        tool = vimdiff
+        #tool = meld
+[merge]
+        tool = vimdiff
+[difftool]
+        prompt = No
+[core]
+        editor=vim
+        autocrlf=false
+[user]
+	name = ZY-Joey
